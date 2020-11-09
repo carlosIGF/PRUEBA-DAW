@@ -7,12 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!1");
-            Console.WriteLine("Hola World!");
-
-            if (true)
-            {
-                Console.WriteLine("He hecho un cambio en linea 13");
-            }
+            Console.WriteLine("Hola World!")
         }
     }
 }
